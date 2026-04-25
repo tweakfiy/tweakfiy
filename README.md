@@ -10,9 +10,10 @@
 
 We create and provide exclusive tweaks for:
 
-- 🎵 **Spotify** — Remove ads, enable unlimited skips, unlock premium features, and customize UI.
-- 🎮 **Vencord / Modified Discord** — Custom themes, plugins, chat improvements, and enhanced client behavior.
 - 💻 **PC (Windows / Performance)** — System optimizations, debloat scripts, gaming tweaks, and performance boosters.
+- 🎵 **Spictify / Modified Spotify** — Remove ads, enable unlimited skips, unlock premium features, and customize UI.
+- 🎮 **Cordify / Modified Discord** — Custom themes, plugins, chat improvements, and enhanced client behavior.
+- 🎙️ **PC Microphone (Windows)** — Noise isolation, background removal, mic sensitivity tuning, echo cancellation, and audio input optimization.
 
 ---
 
